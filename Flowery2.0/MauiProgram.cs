@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-
+//test
 namespace Flowery2._0
 {
     public static class MauiProgram
